@@ -32,12 +32,6 @@ Berikut adalah daftar proyek yang ada di dalam repositori ini, dikelompokkan ber
 
 ---
 
-### 👁️ Computer Vision
-
-- **Proyek Deteksi Rusa**
-  - _Deskripsi_: Mengimplementasikan model _deep learning_ untuk mendeteksi dan melokalisasi objek rusa pada sebuah gambar.
-
----
 
 ## 💻 Teknologi Utama
 
@@ -45,7 +39,6 @@ Proyek-proyek ini sebagian besar dibangun menggunakan:
 
 - Python
 - Jupyter Notebook / Google Colab
-- Pandas & NumPy
 - Scikit-learn
 - TensorFlow & Keras
 - OpenCV
