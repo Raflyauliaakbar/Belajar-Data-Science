@@ -76,7 +76,7 @@ Evaluasi akhir dengan _10-Fold Cross-Validation_ pada model yang telah dioptimal
 
 ### 2. Menjalankan Aplikasi Web (Jika `app.py` sudah dibuat)
 
-![Contoh Aplikasi Web](/apprun.png)
+![Contoh Aplikasi Web](Klasifikasi-Heart/apprun.png)
 
 1.  Pastikan semua file (`app.py`, `model_jantung.sav`, `scaler_jantung.sav`) berada di dalam satu folder.
 2.  Instal Streamlit:
